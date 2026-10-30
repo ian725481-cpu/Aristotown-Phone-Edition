@@ -64,4 +64,4 @@ sudo ldconfig
 
 ### Running the Game
 Now run the [Start.sh](Start.sh) file to launch the game.
-# Aristotown
+# Aristotown: Phone Edition
